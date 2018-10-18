@@ -4730,4 +4730,14 @@
     <Type>Script</Type>
     <Description>Auto-splitting is available. Load time removal requires a helper mod found at https://www.speedrun.com/SOMA/resources (By Trigger)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+   <Games>
+	<Game>Ending</Game>
+   </Games>
+   <URLs>
+	<URL>https://github.com/Lyfeless/Ending-Autosplitter/blob/master/splitter.asl</URL>
+   </URLs>
+   <Type>Script</Type>
+   <Description>AutoSplit for Ending by Lyfeless and Dinoz (no autostart)</Description>
+</AutoSplitter>
 </AutoSplitters>
